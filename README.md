@@ -1,2 +1,2 @@
 # Ecommerceproject
-E commerce project
+Only the front end of E commerce project
